@@ -20,30 +20,30 @@ Before running this application, you will need to have Python installed on your 
 - `tkinter`: Standard GUI library for Python
 - `PIL`: Python Imaging Library, used here for handling images
 
-# You can install these packages using pip:
+### You can install these packages using pip:
 
 bash
 pip install gtts Pillow
 
-# Installing
+### Installing
 Clone the repository to your local machine:
 bash
 git clone https://github.com/mukhammadkodir27/Text-To-Speech-Converter.git
 
-# Navigate to the cloned directory:
+### Navigate to the cloned directory:
 cd Text-To-Speech-Converter
 
-# Running the Application
+### Running the Application
 python final_version.py
 
-# Built With
+### Built With
 Python - The programming language used.
 gTTS - Google Text-to-Speech, a Python library and CLI tool to interface with Google Translate's text-to-speech API.
 Tkinter - The standard Python interface to the Tk GUI toolkit.
 Pillow - The Python Imaging Library adds image processing capabilities to your Python interpreter.
 
-# Authors
+### Authors
 Mukhammadkodir Abdusalomov
 
-# License
+### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
