@@ -47,3 +47,6 @@ Mukhammadkodir Abdusalomov
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+![image](https://github.com/Mukhammadkodir27/Text-To-Speech-Converter/assets/99057791/17052d1b-f958-44b6-afa5-6160f9a29ef1)
+
