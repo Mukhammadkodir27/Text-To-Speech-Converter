@@ -57,4 +57,8 @@ button.place(relx=0.5, rely=0.6, anchor=CENTER)
 status_label = Label(root, text="", fg="green", font=('Helvetica', 12))
 status_label.place(relx=0.5, rely=0.4, anchor=CENTER)
 
+# Footer label
+footer_label = Label(root, text="Created by Mukhammadkodir", fg="gray")
+footer_label.pack(side="bottom", fill="x")
+
 root.mainloop()
